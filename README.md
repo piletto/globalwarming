@@ -20,11 +20,11 @@
 numpy==1.24.3
 fastapi==0.63.0
 uvicorn==0.12.2
-- Библиотека N
 
 ## Референсы, которые мне пригодятся
-- Референс 1
-- Референс N
+- Референсы:
+> https://colab.research.google.com/drive/1ZvLMa59UbmXg9QLpsGAAZRiRVWkM91I4?usp=sharing
+> https://colab.research.google.com/drive/1Ktz9nm_m9bCxPc9QiXETy71iEV6kDgwE?usp=sharing
 
 ## Гайды-статьи, где есть полезная для меня информация
 Короткий комментарий, чтобы понимать про что статья ... [слово на котором будет ссылка](https://ссылка на статью)
