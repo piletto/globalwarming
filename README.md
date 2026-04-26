@@ -78,8 +78,11 @@ https://colab.research.google.com/drive/1Ktz9nm_m9bCxPc9QiXETy71iEV6kDgwE?usp=sh
 Источники описаний явлений:
 
 Лесные пожары: https://73.mchs.gov.ru/deyatelnost/poleznaya-informaciya/rekomendacii-naseleniyu/lesnoy-pozhar-prichiny-vozniknoveniya-i-pravila-povedeniya-pri-obnaruzhenii
+
 Засуха: https://25.mchs.gov.ru/deyatelnost/poleznaya-informaciya/rekomendacii-naseleniyu/chs-prirodnogo-haraktera/zasuha
+
 Таяние льдов: https://science.mail.ru/articles/6365-tayanie-lednikov/
+
 Наводнение: https://92.mchs.gov.ru/deyatelnost/poleznaya-informaciya/rekomendacii-naseleniyu/proisshestviya-prirodnogo-haraktera/navodnenie
 
 🎯 Заключение
